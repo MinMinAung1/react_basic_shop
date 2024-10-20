@@ -5,8 +5,7 @@ import classes from "./Home.module.css";
 const DYMMY_DATA = [
   {
     id: "1",
-    image:
-      "https://himmoto.com/wp-content/uploads/2024/04/efweqt.jpg",
+    image: "https://himmoto.com/wp-content/uploads/2024/04/efweqt.jpg",
     name: "Code log",
     price: 3,
     text: "Personalization: Easily make your notebooks, laptops, and water bottles unique and fun.Decoration: Add a touch of charm and color to your surroundings, whether it’s your office desk or home space.Gifts: Ideal for giving a personal and heartwarming touch to gifts for cat lovers.Organization: Use them to label and organize your belongings in a playful way.Eco-Friendly: Most cat stickers are made with environmentally friendly materials.",
